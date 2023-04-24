@@ -47,4 +47,4 @@ https://www.mediafire.com/view/64lwkwdenhwpnxa/About-the-computer-online-manual.
 
 프로그램을 실행시키면 아래와 같은 화면이 나옵니다.
 
-<img src="imges/1.png">
+<img src="images/1.png">

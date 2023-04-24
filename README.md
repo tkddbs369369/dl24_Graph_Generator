@@ -93,7 +93,6 @@ https://www.mediafire.com/view/64lwkwdenhwpnxa/About-the-computer-online-manual.
 간격은 x,값과 y값의 갯수 수정 가능합니다.
 
 ​
-
-아래는 속성값 수정 예시입니다. 
+ 
 
 <img src="images/4.png">
